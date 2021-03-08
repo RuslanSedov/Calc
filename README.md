@@ -1,2 +1,2 @@
 # Calc
-https://ruslansedov.github.io/Calc/index.html
+https://RuslanSedov.github.io/Calc/index.html
