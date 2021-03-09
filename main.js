@@ -1,5 +1,6 @@
 function insert(num) {
-  document.form.textview.value = document.form.textview.value + num
+  let inputValue = document.form.textview.value
+  document.form.textview.value = inputValue + num
 }
 function clean() {
   document.form.textview.value = ''
